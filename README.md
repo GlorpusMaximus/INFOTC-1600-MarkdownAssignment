@@ -1,6 +1,6 @@
 # INFOTC-1600-MarkdownAssignment
 
-# Generating Images with Stable Diffusion
+## Generating Images with Stable Diffusion
 
 Stable Diffusion is a powerful deep learning model primarily used for generating images based on text prompts. This guide covers the basics of generating images using Stable Diffusion and provides resources for exploring more advanced techniques.
 
